@@ -1,0 +1,954 @@
+Archive member included       because of file (symbol)
+
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o (__atexit)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi.o)
+                              PetMon.o (__eabi)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(atexit.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o (atexit)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(exit.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o (exit)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(impure.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(atexit.o) (_impure_ptr)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(malloc.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(atexit.o) (malloc)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(malloc.o) (_malloc_r)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(memcpy.o)
+                              ../source/os_task.o (memcpy)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mlock.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o) (__malloc_lock)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o) (_sbrk_r)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(strncpy.o)
+                              assert.o (strncpy)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(freer.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(malloc.o) (_free_r)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(rom-exit.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(exit.o) (_exit)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(sbrk.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o) (sbrk)
+C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(rom-errno.o)
+                              C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(sbrk.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+PetMsg              0x64              Pet.o
+dispatcherQueue     0x4               Dispatcher.o
+OSLockNesting       0x1               ../source/os_core.o
+OSRunning           0x1               ../source/os_core.o
+bfrSpace            0xaf              MemMgr.o
+lineNumber          0x4               assert.o
+IMMR                0x4               ../mpc860/860init.o
+OSIdleCtr           0x4               ../source/os_core.o
+RegionStk           0x16000           Region.o
+OSPrioHighRdy       0x1               ../source/os_core.o
+errno               0x4               C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o)
+__unhandled_exception_pc
+                    0x4               C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o
+gRegionNum          0x1               Region.o
+fileName            0x1e              assert.o
+framerMsg           0x64              Framer.o
+OSPrioCur           0x1               ../source/os_core.o
+OSTCBList           0x4               ../source/os_core.o
+dispatcherMsg       0x64              Dispatcher.o
+OSCtxSwCtr          0x4               ../source/os_core.o
+bfrAvail            0x4               MemMgr.o
+OSIdleCtrMax        0x4               ../source/os_core.o
+dec_init            0x4               PetMon.o
+OSTCBFreeList       0x4               ../source/os_core.o
+rxBD                0x4               ../mpc860/860smc.o
+OSCPUUsage          0x1               ../source/os_core.o
+OSTaskCtr           0x1               ../source/os_core.o
+__atexit            0x4               C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+OSTCBHighRdy        0x4               ../source/os_core.o
+OSRdyGrp            0x1               ../source/os_core.o
+PetStk              0x14000           Pet.o
+OSRdyTbl            0x8               ../source/os_core.o
+framerQueue         0x4               Framer.o
+InitStk             0x2000            PetMon.o
+OSEventFreeList     0x4               ../source/os_core.o
+ParserStk           0x2000            PktParser.o
+bfrPool             0x4               MemMgr.o
+__unhandled_exception
+                    0x4               C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o
+OSIntNesting        0x1               ../source/os_core.o
+RegionMsg           0x64              Region.o
+OSTCBCur            0x4               ../source/os_core.o
+txDone              0x4               SMC1Driver.o
+rxDone              0x4               SMC1Driver.o
+OSTime              0x4               ../source/os_core.o
+gPetNum             0x1               Pet.o
+DispatcherStk       0x2000            Dispatcher.o
+OSEventTbl          0x1e0             ../source/os_core.o
+FramerStk           0x2000            Framer.o
+OSStatRdy           0x1               ../source/os_core.o
+OSTCBPrioTbl        0x100             ../source/os_core.o
+txBD                0x4               ../mpc860/860smc.o
+OSIdleCtrRun        0x4               ../source/os_core.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrti.o
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o
+LOAD PetMon.o
+LOAD PktParser.o
+LOAD Framer.o
+LOAD Dispatcher.o
+LOAD Pet.o
+LOAD Region.o
+LOAD MemMgr.o
+LOAD SMC1Driver.o
+LOAD assert.o
+LOAD ../mpc860/bseppcc.o
+LOAD ../source/os_core.o
+LOAD ../source/os_mbox.o
+LOAD ../source/os_mem.o
+LOAD ../source/os_q.o
+LOAD ../source/os_sem.o
+LOAD ../source/os_task.o
+LOAD ../source/os_time.o
+LOAD ../mpc860/860init.o
+LOAD ../mpc860/860smc.o
+LOAD ../mpc860/bseppca.o
+LOAD ../mpc860/vectors.o
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\vectors.o
+START GROUP
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a
+END GROUP
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a
+LOAD C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrtn.o
+                0x00000100                __ram_start=0x100
+                0x00080000                __ram_size=0x80000
+                0x00000800                __stack_size=0x800
+                0x00000100                __text_start=DEFINED(__ram_start)?__ram_start:0x100
+                0x00000004                __ram_align=DEFINED(__page_size)?__page_size:0x4
+
+.interp
+ *(.interp)
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.gnu.linkonce.t*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.gnu.linkonce.d*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.gnu.linkonce.r*)
+
+.rela.got
+ *(.rela.got)
+
+.rela.got1
+ *(.rela.got1)
+
+.rela.got2
+ *(.rela.got2)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.init
+ *(.rela.init)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.plt
+ *(.rela.plt)
+
+.rela.sdata
+ *(.rela.sdata)
+
+.rela.sbss
+ *(.rela.sbss)
+
+.rela.sdata2
+ *(.rela.sdata2)
+
+.rela.sbss2
+ *(.rela.sbss2)
+
+.text           0x00000100     0xa870
+                0x00000100                __TEXT_START__=.
+ *(.osinit)
+ *(.vectors)
+ .vectors       0x00000100     0x1f00 ../mpc860/vectors.o
+ .vectors       0x00002000     0x1f00 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\vectors.o
+ *(.text)
+ .text          0x00003f00      0x708 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o
+                0x00003f00                _start2
+                0x00003f3c                _start
+                0x00003f74                _restart
+                0x00004580                __vector_default_crt0
+ .text          0x00004608       0xe8 PetMon.o
+                0x00004694                Init
+                0x00004608                main
+ .text          0x000046f0      0x3d4 PktParser.o
+                0x00004a14                SetState
+                0x000047b0                ParsePkt
+                0x000046f0                CreateParserTask
+                0x0000476c                Parser
+                0x0000496c                CheckSum
+                0x000049bc                SetErrorState
+ .text          0x00004ac4      0x330 Framer.o
+                0x00004b74                Framer
+                0x00004db0                SendFramerQ
+                0x00004ac4                CreateFramerTask
+ .text          0x00004df4      0x2e8 Dispatcher.o
+                0x00004ea4                Dispatcher
+                0x00004df4                CreateDispatcherTask
+                0x00005098                SendDispatcherQ
+ .text          0x000050dc      0x3f4 Pet.o
+                0x000051cc                Pet
+                0x00005478                SendPetNotDefined
+                0x000052bc                SendAck
+                0x00005314                SendPetLocation
+                0x0000540c                IsPetValid
+                0x000053b0                SendPetQ
+                0x0000538c                IsPetNotDefined
+                0x00005420                SendPetInvalid
+                0x000050dc                CreatePetTask
+ .text          0x000054d0      0x6d4 Region.o
+                0x000057dc                PetVoilatesMyRegion
+                0x000059b8                SendRegionAlreadyDefined
+                0x000058e8                IsRegionNotDefined
+                0x00005758                SendRegionLocation
+                0x00005a68                AddToLinkedList
+                0x00005aec                SendToHeadRegion
+                0x00005960                SendRegionNotDefined
+                0x00005a10                SendRegionQ
+                0x00005b3c                SendToNextRegion
+                0x00005908                SendRegionInvalid
+                0x000054d0                CreateRegionTask
+                0x000055b8                Region
+                0x000058d8                IsRegionValid
+                0x00005860                SendPetViolationAlarm
+                0x00005700                SendRegionAck
+ .text          0x00005ba4      0x170 MemMgr.o
+                0x00005c24                Allocate
+                0x00005cac                Free
+                0x00005ba4                InitMemMgr
+ .text          0x00005d14      0x1fc SMC1Driver.o
+                0x00005e30                OutByte
+                0x00005d48                ExtInterrupt
+                0x00005eac                InByte
+                0x00005d14                InitSMC1Driver
+ .text          0x00005f10       0x54 assert.o
+                0x00005f10                AssertFailure
+ .text          0x00005f64      0x1c0 ../mpc860/bseppcc.o
+                0x000060b8                OSTaskCreateHook
+                0x00006060                DEC_Hdlr
+                0x000060dc                OSTaskStatHook
+                0x000060bc                OSTaskDelHook
+                0x000060e0                OSTimeTickHook
+                0x00005fa8                OSTaskStkInit
+                0x00005f64                ticker_start
+                0x000060f8                OS_EXIT_CRITICAL
+                0x000060c0                OSTaskSwHook
+                0x000060e4                OS_ENTER_CRITICAL
+ .text          0x00006124      0x948 ../source/os_core.o
+                0x00006484                OSIntEnter
+                0x000064b4                OSIntExit
+                0x00006294                OSEventWaitListInit
+                0x00006240                OSEventTO
+                0x00006758                OSTaskIdle
+                0x0000655c                OSSched
+                0x000061d4                OSEventTaskWait
+                0x00006628                OSSchedUnlock
+                0x00006704                OSStatInit
+                0x00006694                OSStart
+                0x00006990                OSTimeTick
+                0x000065ec                OSSchedLock
+                0x00006790                OSTaskStat
+                0x0000682c                OSTCBInit
+                0x000062c0                OSInit
+                0x00006124                OSEventTaskRdy
+                0x00006a64                OSVersion
+ .text          0x00006a6c      0x340 ../source/os_mbox.o
+                0x00006d18                OSMboxQuery
+                0x00006c78                OSMboxPost
+                0x00006ad4                OSMboxCreate
+                0x00006b40                OSMboxPend
+                0x00006a6c                OSMboxAccept
+ .text          0x00006dac      0x2f4 ../source/os_mem.o
+                0x00006f44                OSMemInit
+                0x00006ebc                OSMemGet
+                0x00006fa4                OSMemPut
+                0x00006dac                OSMemCreate
+                0x00007018                OSMemQuery
+ .text          0x000070a0      0x620 ../source/os_q.o
+                0x00007214                OSQFlush
+                0x000070a0                OSQAccept
+                0x00007464                OSQPost
+                0x000072c0                OSQPend
+                0x00007534                OSQPostFront
+                0x00007130                OSQCreate
+                0x00007278                OSQInit
+                0x00007608                OSQQuery
+ .text          0x000076c0      0x30c ../source/os_sem.o
+                0x00007794                OSSemPend
+                0x000076c0                OSSemAccept
+                0x00007898                OSSemPost
+                0x00007728                OSSemCreate
+                0x00007938                OSSemQuery
+ .text          0x000079cc      0xaf8 ../source/os_task.o
+                0x00007d0c                OSTaskCreateExt
+                0x00007be0                OSTaskCreate
+                0x000079d0                OSTaskChangePrio
+                0x00007eac                OSTaskDel
+                0x00008078                OSTaskDelReq
+                0x00008138                OSTaskResume
+                0x00008208                OSTaskStkChk
+                0x0000841c                OSTaskQuery
+                0x00008310                OSTaskSuspend
+ .text          0x000084c4      0x2bc ../source/os_time.o
+                0x0000873c                OSTimeSet
+                0x000084c4                OSTimeDly
+                0x00008538                OSTimeDlyHMSM
+                0x00008630                OSTimeDlyResume
+                0x000086f8                OSTimeGet
+ .text          0x00008780       0xfc ../mpc860/860init.o
+                0x000087c8                InitBD
+                0x00008780                software_init_hook
+                0x000087b0                InitDPRAMPtrs
+ .text          0x0000887c      0x16c ../mpc860/860smc.o
+                0x0000887c                InitSMC1
+ .text          0x000089e8      0x5fc ../mpc860/bseppca.o
+                0x000089e8                OSStartHighRdy
+                0x00008ac0                OSCtxSw
+                0x00008c44                OSIntCtxSw
+                0x00008e90                ExtInt
+                0x00008d3c                DECIntr
+ .text          0x00008fe4       0xb0 ../mpc860/vectors.o
+ .text          0x00009094       0xf8 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+                0x0000911c                __do_global_dtors
+                0x00009094                __do_global_ctors
+ .text          0x0000918c      0x2c0 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi.o)
+                0x00009360                _restgpr_18
+                0x00009438                _restgpr_31_x
+                0x00009380                _restgpr_26
+                0x000092ec                _savegpr_27
+                0x00009378                _restgpr_24
+                0x00009418                _restgpr_23_x
+                0x00009310                _restfpr_17
+                0x00009354                _restgpr_15
+                0x000093c8                _restfpr_25_x
+                0x000093f8                _restgpr_15_x
+                0x00009328                _restfpr_23
+                0x0000937c                _restgpr_25
+                0x000092b8                _savegpr_14
+                0x000093ac                _restfpr_18_x
+                0x00009274                _savefpr_16
+                0x00009394                _restgpr_31
+                0x000093a4                _restfpr_16_x
+                0x00009408                _restgpr_19_x
+                0x00009288                _savefpr_21
+                0x000092bc                _savegpr_15
+                0x00009434                _restgpr_30_x
+                0x00009400                _restgpr_17_x
+                0x000092a4                _savefpr_28
+                0x00009430                _restgpr_29_x
+                0x00009338                _restfpr_27
+                0x000093d0                _restfpr_27_x
+                0x000093e0                _restfpr_31_x
+                0x00009318                _restfpr_19
+                0x000093c4                _restfpr_24_x
+                0x000092f0                _savegpr_28
+                0x000092e8                _savegpr_26
+                0x00009350                _restgpr_14
+                0x00009270                _savefpr_15
+                0x000092a0                _savefpr_27
+                0x000093a0                _restfpr_15_x
+                0x00009308                _restfpr_15
+                0x000093c0                _restfpr_23_x
+                0x0000928c                _savefpr_22
+                0x00009320                _restfpr_21
+                0x0000939c                _restfpr_14_x
+                0x0000936c                _restgpr_21
+                0x00009278                _savefpr_17
+                0x00009330                _restfpr_25
+                0x00009324                _restfpr_22
+                0x00009414                _restgpr_22_x
+                0x0000926c                _savefpr_14
+                0x00009424                _restgpr_26_x
+                0x0000942c                _restgpr_28_x
+                0x000092e4                _savegpr_25
+                0x000093dc                _restfpr_30_x
+                0x00009420                _restgpr_25_x
+                0x0000941c                _restgpr_24_x
+                0x000092d4                _savegpr_21
+                0x00009284                _savefpr_20
+                0x00009388                _restgpr_28
+                0x00009304                _restfpr_14
+                0x000092a8                _savefpr_29
+                0x00009234                __eabi_uconvert
+                0x00009364                _restgpr_19
+                0x00009368                _restgpr_20
+                0x00009404                _restgpr_18_x
+                0x000093b8                _restfpr_21_x
+                0x000092b0                _savefpr_31
+                0x000092d0                _savegpr_20
+                0x0000938c                _restgpr_29
+                0x000092c8                _savegpr_18
+                0x00009280                _savefpr_19
+                0x0000933c                _restfpr_28
+                0x00009334                _restfpr_26
+                0x000092c4                _savegpr_17
+                0x000093d4                _restfpr_28_x
+                0x0000931c                _restfpr_20
+                0x000093a8                _restfpr_17_x
+                0x000092ac                _savefpr_30
+                0x00009298                _savefpr_25
+                0x000092fc                _savegpr_31
+                0x000092dc                _savegpr_23
+                0x00009294                _savefpr_24
+                0x000093d8                _restfpr_29_x
+                0x0000927c                _savefpr_18
+                0x000092f4                _savegpr_29
+                0x000093b0                _restfpr_19_x
+                0x00009384                _restgpr_27
+                0x00009370                _restgpr_22
+                0x000092e0                _savegpr_24
+                0x000093cc                _restfpr_26_x
+                0x0000918c                __eabi
+                0x00009314                _restfpr_18
+                0x000092cc                _savegpr_19
+                0x0000930c                _restfpr_16
+                0x000093f4                _restgpr_14_x
+                0x00009290                _savefpr_23
+                0x00009344                _restfpr_30
+                0x000092c0                _savegpr_16
+                0x000093b4                _restfpr_20_x
+                0x00009340                _restfpr_29
+                0x0000932c                _restfpr_24
+                0x000092f8                _savegpr_30
+                0x00009410                _restgpr_21_x
+                0x00009390                _restgpr_30
+                0x000093bc                _restfpr_22_x
+                0x000093fc                _restgpr_16_x
+                0x00009428                _restgpr_27_x
+                0x000092d8                _savegpr_22
+                0x00009200                __eabi_convert
+                0x00009358                _restgpr_16
+                0x00009374                _restgpr_23
+                0x0000935c                _restgpr_17
+                0x0000929c                _savefpr_26
+                0x0000940c                _restgpr_20_x
+                0x00009348                _restfpr_31
+ .text          0x0000944c       0x98 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(atexit.o)
+                0x0000944c                atexit
+ .text          0x000094e4       0x8c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(exit.o)
+                0x000094e4                exit
+ .text          0x00009570       0x50 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(malloc.o)
+                0x00009570                malloc
+                0x00009598                free
+ .text          0x000095c0      0x784 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o)
+                0x000097b8                _malloc_r
+ .text          0x00009d44       0xa4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(memcpy.o)
+                0x00009d44                memcpy
+ .text          0x00009de8        0x8 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mlock.o)
+                0x00009dec                __malloc_unlock
+                0x00009de8                __malloc_lock
+ .text          0x00009df0       0x50 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o)
+                0x00009df0                _sbrk_r
+ .text          0x00009e40       0xec C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(strncpy.o)
+                0x00009e40                strncpy
+ .text          0x00009f2c      0x3ac C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(freer.o)
+                0x00009f2c                _free_r
+                0x0000a1c4                _malloc_trim_r
+ .text          0x0000a2d8       0x18 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(rom-exit.o)
+                0x0000a2d8                _exit
+ .text          0x0000a2f0       0x50 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(sbrk.o)
+                0x0000a2f0                sbrk
+ .text          0x0000a340        0x8 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(rom-errno.o)
+                0x0000a340                __errno
+ *(.gnu.warning)
+ *(.gnu.linkonce.t*)
+                0x0000a348                .=ALIGN(0x4)
+                0x0000a348                crt0_initialization_list=ALIGN(0x4)
+ *(.crt0ini)
+ .crt0ini       0x0000a348      0x620 ../mpc860/860init.o
+                0x0000a968        0x4 LONG 0x0
+                0x0000a96c                .=ALIGN(0x4)
+                0x0000a96c                __usertext_start=ALIGN(0x4)
+ *(.usertxt)
+                0x00000000                __usertext_size=(L(.)-L(__usertext_start))
+                0x0000a96c        0x4 LONG 0x0
+
+.init           0x0000a970       0x1c
+ *(.init)
+ .init          0x0000a970        0xc C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrti.o
+                0x0000a970                __init
+ .init          0x0000a97c       0x10 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrtn.o
+
+.fini           0x0000a98c       0x1c
+ *(.fini)
+ .fini          0x0000a98c        0xc C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrti.o
+                0x0000a98c                __fini
+ .fini          0x0000a998       0x10 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrtn.o
+
+.rodata         0x0000a9a8      0x1b4
+ *(.rodata)
+ .rodata        0x0000a9a8        0xc PetMon.o
+ *fill*         0x0000a9b4        0x4
+ .rodata        0x0000a9b8       0x30 PktParser.o
+ .rodata        0x0000a9e8       0x28 Framer.o
+ .rodata        0x0000aa10       0x10 Dispatcher.o
+ .rodata        0x0000aa20        0x8 Pet.o
+ .rodata        0x0000aa28        0xc Region.o
+ .rodata        0x0000aa34        0xc MemMgr.o
+ .rodata        0x0000aa40       0x10 SMC1Driver.o
+ .rodata        0x0000aa50      0x108 ../source/os_core.o
+                0x0000aa50                OSMapTbl
+                0x0000aa58                OSUnMapTbl
+ .rodata        0x0000ab58        0x4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(impure.o)
+ *(.gnu.linkonce.r*)
+
+.rodata1        0x0000ab5c        0x0
+ *(.rodata1)
+                0x0000ab5c                _etext=.
+                0x0000ab5c                PROVIDE (etext, .)
+
+.sdata2         0x0000ab5c        0x0
+ *(.sdata2)
+
+.sbss2          0x0000ab5c        0x0
+ *(.sbss2)
+                0x0000ab5c                __TEXT_END__=.
+
+.data           0x0000ab5c      0x848
+                0x0000ab5c                __data_start=.
+ *(.data)
+ .data          0x0000ab5c       0x78 Pet.o
+                0x0000ab5c                gPetStatus
+ .data          0x0000abd4       0xb0 Region.o
+                0x0000abd4                gRegionDetail
+ .data          0x0000ac84        0x4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi.o)
+ .data          0x0000ac88      0x2ec C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(impure.o)
+ .data          0x0000af74      0x430 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o)
+                0x0000b37c                __malloc_current_mallinfo
+                0x0000af74                __malloc_av_
+ *(.gnu.linkonce.d*)
+ *(.data1)
+ *(.got1)
+ *(.dynamic)
+                0x0000b3a4                __data_end=ALIGN(0x4)
+
+.gcc_except_table
+                0x0000b3a4        0x0
+
+.got2           0x0000b3a4       0x1c
+                0x0000b3a4                __GOT2_START__=.
+ *(.got2)
+ .got2          0x0000b3a4       0x1c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi.o)
+                0x0000b3c0                __GOT2_END__=.
+
+.fixups         0x0000b3c0       0xf0
+                0x0000b3c0                __CTOR_LIST__=.
+ *(.ctors)
+                0x0000b3c0                __CTOR_END__=.
+                0x0000b3c0                __DTOR_LIST__=.
+ *(.dtors)
+                0x0000b3c0                __DTOR_END__=.
+                0x0000b3c0                __FIXUP_START__=.
+ *(.fixup)
+ .fixup         0x0000b3c0       0x78 ../mpc860/vectors.o
+ .fixup         0x0000b438       0x78 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\vectors.o
+                0x0000b4b0                __FIXUP_END__=.
+
+.got            0x0000b4b0        0x0
+                0x0000b4b0                __GOT_START__=.
+ *(.got)
+ *(.got.plt)
+                0x0000b4b0                __GOT_END__=.
+
+.sdata          0x0000b4b0       0x38
+ *(.sdata)
+ .sdata         0x0000b4b0        0x4 Region.o
+                0x0000b4b0                head
+ .sdata         0x0000b4b4        0x8 ../mpc860/bseppcc.o
+                0x0000b4b4                xjunk
+                0x0000b4b8                disableCnt
+ .sdata         0x0000b4bc        0x4 ../source/os_core.o
+ .sdata         0x0000b4c0        0x8 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+ .sdata         0x0000b4c8        0x4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(impure.o)
+                0x0000b4c8                _impure_ptr
+ .sdata         0x0000b4cc       0x14 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o)
+                0x0000b4d0                __malloc_top_pad
+                0x0000b4d8                __malloc_max_sbrked_mem
+                0x0000b4d4                __malloc_sbrk_base
+                0x0000b4dc                __malloc_max_total_mem
+                0x0000b4cc                __malloc_trim_threshold
+ .sdata         0x0000b4e0        0x4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(sbrk.o)
+                0x0000b4e0                heap_ptr
+                0x0000b4e4                .=ALIGN(0x4)
+                0x0000b4e4                __userdata_start=ALIGN(0x4)
+ *(.userdat)
+                0x00000000                __userdata_size=(L(.)-L(__userdata_start))
+                0x0000b4e4        0x4 LONG 0x0
+                0x0000b4e8                _edata=.
+                0x0000b4e8                PROVIDE (edata, .)
+
+.sbss           0x0000b4e8       0xa0
+                0x0000b4e8                __bss_clear_start=.
+                0x0000b4e8                PROVIDE (__sbss_start, .)
+ *(.sbss)
+ .sbss          0x0000b4e8        0x8 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\crt0.o
+                                  0x0 (size before relaxing)
+                0x0000b4e8                __unhandled_exception_pc
+                0x0000b4ec                __unhandled_exception
+ .sbss          0x0000b4f0        0x4 PetMon.o
+                                  0x0 (size before relaxing)
+                0x0000b4f0                dec_init
+ .sbss          0x0000b4f4        0x4 Framer.o
+                                  0x0 (size before relaxing)
+                0x0000b4f4                framerQueue
+ .sbss          0x0000b4f8        0x4 Dispatcher.o
+                                  0x0 (size before relaxing)
+                0x0000b4f8                dispatcherQueue
+ .sbss          0x0000b4fc        0x1 Pet.o
+                                  0x0 (size before relaxing)
+                0x0000b4fc                gPetNum
+ .sbss          0x0000b4fd        0x1 Region.o
+                                  0x0 (size before relaxing)
+                0x0000b4fd                gRegionNum
+ *fill*         0x0000b4fe        0x2
+ .sbss          0x0000b500        0x8 MemMgr.o
+                                  0x0 (size before relaxing)
+                0x0000b500                bfrAvail
+                0x0000b504                bfrPool
+ .sbss          0x0000b508        0x8 SMC1Driver.o
+                                  0x0 (size before relaxing)
+                0x0000b508                txDone
+                0x0000b50c                rxDone
+ .sbss          0x0000b510        0x4 assert.o
+                                  0x0 (size before relaxing)
+                0x0000b510                lineNumber
+ .sbss          0x0000b514       0x48 ../source/os_core.o
+                                  0x1 (size before relaxing)
+                0x0000b515                OSLockNesting
+                0x0000b516                OSRunning
+                0x0000b518                OSIdleCtr
+                0x0000b51c                OSPrioHighRdy
+                0x0000b51d                OSPrioCur
+                0x0000b520                OSTCBList
+                0x0000b524                OSCtxSwCtr
+                0x0000b528                OSIdleCtrMax
+                0x0000b52c                OSTCBFreeList
+                0x0000b530                OSCPUUsage
+                0x0000b531                OSTaskCtr
+                0x0000b534                OSTCBHighRdy
+                0x0000b538                OSRdyGrp
+                0x0000b53c                OSRdyTbl
+                0x0000b544                OSEventFreeList
+                0x0000b548                OSIntNesting
+                0x0000b54c                OSTCBCur
+                0x0000b550                OSTime
+                0x0000b554                OSStatRdy
+                0x0000b558                OSIdleCtrRun
+ .sbss          0x0000b55c        0x4 ../source/os_mem.o
+ .sbss          0x0000b560        0x4 ../source/os_q.o
+ .sbss          0x0000b564        0xc ../mpc860/860init.o
+                                  0x8 (size before relaxing)
+                0x0000b56c                IMMR
+ .sbss          0x0000b570        0xc ../mpc860/860smc.o
+                                  0x4 (size before relaxing)
+                0x0000b574                rxBD
+                0x0000b578                txBD
+ .sbss          0x0000b57c        0x4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+                                  0x0 (size before relaxing)
+                0x0000b57c                __atexit
+ .sbss          0x0000b580        0x4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o)
+                                  0x0 (size before relaxing)
+                0x0000b580                errno
+ *(.scommon)
+ *(.dynsbss)
+                0x0000b584                .=ALIGN(0x4)
+                0x0000b584                __userbss_start=ALIGN(0x4)
+ *(.userbss)
+                0x00000000                __userbss_size=(L(.)-L(__userbss_start))
+ *fill*         0x0000b584        0x4
+                0x0000b58c                .=(ALIGN(0x4)+0x4)
+                0x0000b588                PROVIDE (__sbss_end, .)
+
+.plt
+ *(.plt)
+
+.bss            0x0000b590    0x34480
+                0x0000b590                PROVIDE (__bss_start, .)
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000b590     0x1ae0 ../source/os_core.o
+ .bss           0x0000d070      0x190 ../source/os_mem.o
+ .bss           0x0000d200      0x2d0 ../source/os_q.o
+ *(COMMON)
+ COMMON         0x0000d4d0     0x2000 PetMon.o
+                                  0x0 (size before relaxing)
+                0x0000d4d0                InitStk
+ COMMON         0x0000f4d0     0x2000 PktParser.o
+                                  0x0 (size before relaxing)
+                0x0000f4d0                ParserStk
+ COMMON         0x000114d0     0x2064 Framer.o
+                                  0x0 (size before relaxing)
+                0x000114d0                framerMsg
+                0x00011534                FramerStk
+ COMMON         0x00013534     0x2064 Dispatcher.o
+                                  0x0 (size before relaxing)
+                0x00013534                dispatcherMsg
+                0x00013598                DispatcherStk
+ COMMON         0x00015598    0x14064 Pet.o
+                                  0x0 (size before relaxing)
+                0x00015598                PetMsg
+                0x000155fc                PetStk
+ COMMON         0x000295fc    0x16064 Region.o
+                                  0x0 (size before relaxing)
+                0x000295fc                RegionStk
+                0x0003f5fc                RegionMsg
+ COMMON         0x0003f660       0xaf MemMgr.o
+                                  0x0 (size before relaxing)
+                0x0003f660                bfrSpace
+ *fill*         0x0003f70f        0x1
+ COMMON         0x0003f710       0x1e assert.o
+                                  0x0 (size before relaxing)
+                0x0003f710                fileName
+ *fill*         0x0003f72e        0x2
+ COMMON         0x0003f730      0x2e0 ../source/os_core.o
+                                  0x0 (size before relaxing)
+                0x0003f730                OSEventTbl
+                0x0003f910                OSTCBPrioTbl
+                0x0003fa10                _end=.
+                0x0003fa10                PROVIDE (end, .)
+
+.stab           0x00000000     0xd884
+ *(.stab)
+ .stab          0x00000000      0x87c PetMon.o
+ .stab          0x0000087c      0x924 PktParser.o
+                                0xd08 (size before relaxing)
+ .stab          0x000011a0      0x654 Framer.o
+                                0xabc (size before relaxing)
+ .stab          0x000017f4      0x66c Dispatcher.o
+                                0xae0 (size before relaxing)
+ .stab          0x00001e60      0x8a0 Pet.o
+                                0xd2c (size before relaxing)
+ .stab          0x00002700      0xd68 Region.o
+                               0x11e8 (size before relaxing)
+ .stab          0x00003468      0x438 MemMgr.o
+                                0x888 (size before relaxing)
+ .stab          0x000038a0      0x4e0 SMC1Driver.o
+                                0x900 (size before relaxing)
+ .stab          0x00003d80      0x1e0 assert.o
+                                0x21c (size before relaxing)
+ .stab          0x00003f60      0x7bc ../mpc860/bseppcc.o
+                                0x9e4 (size before relaxing)
+ .stab          0x0000471c     0x1158 ../source/os_core.o
+                               0x1248 (size before relaxing)
+ .stab          0x00005874      0x744 ../source/os_mbox.o
+                                0x834 (size before relaxing)
+ .stab          0x00005fb8      0x6e4 ../source/os_mem.o
+                                0x7d4 (size before relaxing)
+ .stab          0x0000669c      0xcc0 ../source/os_q.o
+                                0xdb0 (size before relaxing)
+ .stab          0x0000735c      0x6b4 ../source/os_sem.o
+                                0x7a4 (size before relaxing)
+ .stab          0x00007a10     0x10e0 ../source/os_task.o
+                               0x11d0 (size before relaxing)
+ .stab          0x00008af0      0x588 ../source/os_time.o
+                                0x678 (size before relaxing)
+ .stab          0x00009078      0xe70 ../mpc860/860init.o
+                               0x10b0 (size before relaxing)
+ .stab          0x00009ee8      0x5dc ../mpc860/860smc.o
+                                0xa50 (size before relaxing)
+ .stab          0x0000a4c4      0x174 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+                                0x180 (size before relaxing)
+ .stab          0x0000a638      0x42c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(atexit.o)
+                                0x450 (size before relaxing)
+ .stab          0x0000aa64      0x42c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(exit.o)
+                                0x594 (size before relaxing)
+ .stab          0x0000ae90      0x1bc C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(impure.o)
+                                0x2e8 (size before relaxing)
+ .stab          0x0000b04c      0x264 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(malloc.o)
+                                0x3d8 (size before relaxing)
+ .stab          0x0000b2b0      0xf3c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o)
+                               0x1080 (size before relaxing)
+ .stab          0x0000c1ec      0x300 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(memcpy.o)
+                                0x378 (size before relaxing)
+ .stab          0x0000c4ec      0x1f8 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mlock.o)
+                                0x324 (size before relaxing)
+ .stab          0x0000c6e4      0x2c4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o)
+                                0x534 (size before relaxing)
+ .stab          0x0000c9a8      0x2f4 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(strncpy.o)
+                                0x354 (size before relaxing)
+ .stab          0x0000cc9c      0x75c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(freer.o)
+                                0xa74 (size before relaxing)
+ .stab          0x0000d3f8      0x33c C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(sbrk.o)
+                                0x360 (size before relaxing)
+ .stab          0x0000d734      0x150 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(rom-errno.o)
+                                0x15c (size before relaxing)
+
+.stabstr        0x00000000     0xca63
+ *(.stabstr)
+ .stabstr       0x00000000     0xca63 PetMon.o
+                                  0x0 (size before relaxing)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+                0x00000000                PROVIDE (crt0_flags, 0x0)
+                0x00000000                PROVIDE (_environ, 0x0)
+                0x00000000                PROVIDE (hardware_init_hook, 0x0)
+                0x00000000                PROVIDE (software_init_hook, 0x0)
+                0x00080100                PROVIDE (__stack, (__text_start+__ram_size))
+                0x0003fa10                PROVIDE (__heap_start, _end)
+                0x0007f900                PROVIDE (__heap_end, (__text_start+(L(__ram_size)-L(__stack_size))))
+                0x00000000                PROVIDE (__data_start_rom, 0x0)
+                0x00004580                __default_exception_handler=DEFINED(__vector_default)?__vector_default:__vector_default_crt0
+                0x00004580                PROVIDE (__vector_machinecheck, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_dataaccess, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_instructionaccess, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_externalinterrupt, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_alignment, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_program, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_fpunavailable, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_decrementer, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_reserved1, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_reserved2, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_systemcall, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_trace, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_fpassist, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_0f00, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_swemulation, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_instructiontlbmiss, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_datatlbmiss, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_instructiontlberror, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_datatlberror, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1500, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1600, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1700, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1800, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1900, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1a00, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_1b00, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_databreakpoint, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_instructionbreakpoint, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_maskablebreakpoint, __default_exception_handler)
+                0x00004580                PROVIDE (__vector_nonmaskablebreakpoint, __default_exception_handler)
+OUTPUT(PetMon.elf elf32-powerpc)
+
+.comment        0x0000ca63      0x4dc
+ .comment       0x0000ca63        0xe C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrti.o
+ .comment       0x0000ca71       0x26 PetMon.o
+ .comment       0x0000ca97       0x26 PktParser.o
+ .comment       0x0000cabd       0x26 Framer.o
+ .comment       0x0000cae3       0x26 Dispatcher.o
+ .comment       0x0000cb09       0x26 Pet.o
+ .comment       0x0000cb2f       0x26 Region.o
+ .comment       0x0000cb55       0x26 MemMgr.o
+ .comment       0x0000cb7b       0x26 SMC1Driver.o
+ .comment       0x0000cba1       0x26 assert.o
+ .comment       0x0000cbc7       0x26 ../mpc860/bseppcc.o
+ .comment       0x0000cbed       0x26 ../source/os_core.o
+ .comment       0x0000cc13       0x26 ../source/os_mbox.o
+ .comment       0x0000cc39       0x26 ../source/os_mem.o
+ .comment       0x0000cc5f       0x26 ../source/os_q.o
+ .comment       0x0000cc85       0x26 ../source/os_sem.o
+ .comment       0x0000ccab       0x26 ../source/os_task.o
+ .comment       0x0000ccd1       0x26 ../source/os_time.o
+ .comment       0x0000ccf7       0x26 ../mpc860/860init.o
+ .comment       0x0000cd1d       0x26 ../mpc860/860smc.o
+ .comment       0x0000cd43       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\libgcc.a(eabi-ctors.o)
+ .comment       0x0000cd69       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(atexit.o)
+ .comment       0x0000cd8f       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(exit.o)
+ .comment       0x0000cdb5       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(impure.o)
+ .comment       0x0000cddb       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(malloc.o)
+ .comment       0x0000ce01       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mallocr.o)
+ .comment       0x0000ce27       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(memcpy.o)
+ .comment       0x0000ce4d       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(mlock.o)
+ .comment       0x0000ce73       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(sbrkr.o)
+ .comment       0x0000ce99       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(strncpy.o)
+ .comment       0x0000cebf       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\libc.a(freer.o)
+ .comment       0x0000cee5       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(sbrk.o)
+ .comment       0x0000cf0b       0x26 C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\..\..\..\..\powerpc-eabi\lib\nof/msdata\librom.a(rom-errno.o)
+ .comment       0x0000cf31        0xe C:\xgcc32\bin\..\lib\gcc-lib\powerpc-eabi\2.95.2\nof/msdata\ecrtn.o

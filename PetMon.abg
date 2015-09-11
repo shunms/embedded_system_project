@@ -1,0 +1,300 @@
+.id "conversion date" "May 06 2006  22:25:53"
+.id CONVERT  "7.9A"
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\PetMon.c
+dec_init & 0xB4F0
+InitStk & 0xD4D0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\PktParser.c
+dec_init & 0xB4F0
+ParserStk & 0xF4D0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\Framer.c
+dec_init & 0xB4F0
+FramerStk & 0x11534
+framerMsg & 0x114D0
+framerQueue & 0xB4F4
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\Dispatcher.c
+dec_init & 0xB4F0
+DispatcherStk & 0x13598
+dispatcherMsg & 0x13534
+dispatcherQueue & 0xB4F8
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\Pet.c
+gPetStatus & 0xAB5C
+dec_init & 0xB4F0
+PetStk & 0x155FC
+PetMsg & 0x15598
+gPetNum & 0xB4FC
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\Region.c
+gRegionDetail & 0xABD4
+head & 0xB4B0
+dec_init & 0xB4F0
+RegionStk & 0x295FC
+RegionMsg & 0x3F5FC
+gRegionNum & 0xB4FD
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\MemMgr.c
+dec_init & 0xB4F0
+bfrPool & 0xB504
+bfrSpace & 0x3F660
+bfrAvail & 0xB500
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\SMC1Driver.c
+dec_init & 0xB4F0
+txDone & 0xB508
+rxDone & 0xB50C
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\assert.c
+fileName & 0x3F710
+lineNumber & 0xB510
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\mpc860\bseppcc.c
+xjunk & 0xB4B4
+disableCnt & 0xB4B8
+dec_init & 0xB4F0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_core.c
+OSMapTbl & 0xAA50
+OSUnMapTbl & 0xAA58
+dec_init & 0xB4F0
+OSCtxSwCtr & 0xB524
+OSEventFreeList & 0xB544
+OSEventTbl & 0x3F730
+OSIdleCtr & 0xB518
+OSCPUUsage & 0xB530
+OSIdleCtrMax & 0xB528
+OSIdleCtrRun & 0xB558
+OSStatRdy & 0xB554
+OSIntNesting & 0xB548
+OSLockNesting & 0xB515
+OSPrioCur & 0xB51D
+OSPrioHighRdy & 0xB51C
+OSRdyGrp & 0xB538
+OSRdyTbl & 0xB53C
+OSRunning & 0xB516
+OSTaskCtr & 0xB531
+OSTCBCur & 0xB54C
+OSTCBFreeList & 0xB52C
+OSTCBHighRdy & 0xB534
+OSTCBList & 0xB520
+OSTCBPrioTbl & 0x3F910
+OSTime & 0xB550
+OSIntExitY & 0xB514
+OSTaskIdleStk & 0xB590
+OSTaskStatStk & 0xBD90
+OSTCBTbl & 0xC590
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_mbox.c
+dec_init & 0xB4F0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_mem.c
+dec_init & 0xB4F0
+OSMemFreeList & 0xB55C
+OSMemTbl & 0xD070
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_q.c
+dec_init & 0xB4F0
+OSQFreeList & 0xB560
+OSQTbl & 0xD200
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_sem.c
+dec_init & 0xB4F0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_task.c
+dec_init & 0xB4F0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\source\os_time.c
+dec_init & 0xB4F0
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\mpc860\860init.c
+__addr__IMMR1 & 0xA348
+__addr__SIU1 & 0xA350
+__data__SIU1 & 0xA358
+__addr__SIU2 & 0xA364
+__addr__SIU3 & 0xA36C
+__data__SIU3 & 0xA374
+__addr__SIU4 & 0xA384
+__data__SIU4 & 0xA38C
+__addr__SIU5 & 0xA390
+__data__SIU5 & 0xA398
+__addr__MEMC1 & 0xA39C
+__data__MEMC1 & 0xA3A4
+__addr__MEMC2 & 0xA3E4
+__data__MEMC2 & 0xA3EC
+__addr__MEMC3 & 0xA3F4
+__data__MEMC3 & 0xA3FC
+__addr__PCMCIA1 & 0xA40C
+__data__PCMCIA1 & 0xA414
+__addr__PCMCIA2 & 0xA454
+__data__PCMCIA2 & 0xA45C
+__addr__PCMCIA4 & 0xA468
+__data__PCMCIA4 & 0xA470
+__addr__TIMER1 & 0xA474
+__data__TIMER1 & 0xA47C
+__addr__TIMER2 & 0xA480
+__addr__TIMER3 & 0xA488
+__data__TIMER3 & 0xA490
+__addr__TIMER4 & 0xA494
+__data__TIMER4 & 0xA49C
+__addr__TIMER5 & 0xA4A0
+__data__TIMER5 & 0xA4A8
+__addr__TIMER6 & 0xA4AC
+__data__TIMER6 & 0xA4B4
+__addr__TIMER7 & 0xA4B8
+__data__TIMER7 & 0xA4C0
+__addr__TIMER8 & 0xA4C4
+__addr__TIMER9 & 0xA4CC
+__data__TIMER9 & 0xA4D4
+__addr__TIMER10 & 0xA4D8
+__data__TIMER10 & 0xA4E0
+__addr__TIMER11 & 0xA4E4
+__data__TIMER11 & 0xA4EC
+__addr__TIMER12 & 0xA4F0
+__data__TIMER12 & 0xA4F8
+__addr__TIMER13 & 0xA4FC
+__data__TIMER13 & 0xA504
+__addr__TIMER14 & 0xA508
+__data__TIMER14 & 0xA510
+__addr__TIMER15 & 0xA514
+__data__TIMER15 & 0xA51C
+__addr__TIMER16 & 0xA520
+__addr__TIMER17 & 0xA528
+__data__TIMER17 & 0xA530
+__addr__TIMER18 & 0xA534
+__data__TIMER18 & 0xA53C
+__addr__TIMER19 & 0xA540
+__data__TIMER19 & 0xA548
+__addr__TIMER20 & 0xA54C
+__data__TIMER20 & 0xA554
+__addr__CLOCK1 & 0xA558
+__data__CLOCK1 & 0xA560
+__addr__CLOCK2 & 0xA564
+__data__CLOCK2 & 0xA56C
+__addr__CLOCK3 & 0xA570
+__data__CLOCK3 & 0xA578
+__addr__CLOCK4 & 0xA57C
+__data__CLOCK4 & 0xA584
+__addr__CLOCK5 & 0xA588
+__data__CLOCK5 & 0xA590
+__addr__CLOCK6 & 0xA594
+__data__CLOCK6 & 0xA59C
+__addr__I2C1 & 0xA5A0
+__addr__I2C2 & 0xA5A8
+__addr__I2C3 & 0xA5B0
+__addr__I2C4 & 0xA5B8
+__addr__I2C5 & 0xA5C0
+__addr__I2C6 & 0xA5C8
+__addr__DMA1 & 0xA5D0
+__addr__DMA2 & 0xA5D8
+__addr__DMA3 & 0xA5E0
+__addr__DMA4 & 0xA5E8
+__addr__DMA5 & 0xA5F0
+__addr__DMA6 & 0xA5F8
+__addr__DMA7 & 0xA600
+__data__DMA7 & 0xA608
+__addr__CPIC1 & 0xA60C
+__addr__CPIC2 & 0xA614
+__data__CPIC2 & 0xA61C
+__addr__PIO1 & 0xA62C
+__data__PIO1 & 0xA634
+__addr__PIO2 & 0xA63C
+__data__PIO2 & 0xA644
+__addr__PIO3 & 0xA650
+__data__PIO3 & 0xA658
+__addr__PIO4 & 0xA65C
+__addr__CPMTIMER1 & 0xA664
+__addr__CPMTIMER2 & 0xA66C
+__data__CPMTIMER2 & 0xA674
+__addr__COMM1 & 0xA69C
+__data__COMM1 & 0xA6A4
+__addr__COMM2 & 0xA6A8
+__addr__COMM3 & 0xA6B0
+__data__COMM3 & 0xA6B8
+__addr__COMM4 & 0xA6BC
+__data__COMM4 & 0xA6C4
+__addr__COMM5 & 0xA6D0
+__data__COMM5 & 0xA6D8
+__addr__COMM6 & 0xA6F0
+__data__COMM6 & 0xA6F8
+__addr__COMM7 & 0xA704
+__addr__COMM8 & 0xA70C
+__data__COMM8 & 0xA714
+__addr__COMM9 & 0xA71C
+__data__COMM9 & 0xA724
+__addr__COMM10 & 0xA730
+__addr__COMM11 & 0xA738
+__data__COMM11 & 0xA740
+__addr__COMM12 & 0xA748
+__data__COMM12 & 0xA750
+__addr__COMM13 & 0xA75C
+__addr__COMM14 & 0xA764
+__data__COMM14 & 0xA76C
+__addr__COMM15 & 0xA774
+__data__COMM15 & 0xA77C
+__addr__COMM16 & 0xA788
+__addr__COMM17 & 0xA790
+__addr__COMM18 & 0xA798
+__addr__COMM19 & 0xA7A0
+__addr__COMM20 & 0xA7A8
+__addr__COMM21 & 0xA7B0
+__addr__COMM22 & 0xA7B8
+__addr__SPI1 & 0xA7C0
+__addr__SPI2 & 0xA7C8
+__addr__SPI3 & 0xA7D0
+__addr__SPI4 & 0xA7D8
+__addr__PIP1 & 0xA7E0
+__addr__PIP2 & 0xA7E8
+__addr__PIP3 & 0xA7F0
+__data__PIP3 & 0xA7F8
+__addr__PIP4 & 0xA800
+__addr__PIP5 & 0xA808
+__data__PIP5 & 0xA810
+__addr__PIP6 & 0xA814
+__addr__PIP7 & 0xA81C
+__addr__SI1 & 0xA824
+__data__SI1 & 0xA82C
+__addr__SI2 & 0xA830
+__addr__SI3 & 0xA838
+__data__SI3 & 0xA840
+__addr__SI4 & 0xA844
+__data__SI4 & 0xA84C
+__addr__UPMB1 & 0xA854
+__data__UPMB1 & 0xA85C
+IMMR & 0xB56C
+bdNext & 0xB564
+bfNext & 0xB568
+M:
+C:\Sudha\Embedded\Project\PetMon\Project\..\mpc860\860smc.c
+rxBD & 0xB574
+txBD & 0xB578
+newTxBfr & 0xB570
+M:
+\usr\xgcc32\b-i386-mingw32-x-powerpc-eabi\gcc\eabi-ctors.c
+init_ptr & 0xB4C0
+fini_ptr & 0xB4C4
+__atexit & 0xB57C
+M:
+\xgcc32\src\newlib\libc\reent\impure.c
+impure_data & 0xAC88
+_impure_ptr & 0xB4C8
+M:
+\xgcc32\src\newlib\libc\stdlib\mallocr.c
+__malloc_av_ & 0xAF74
+__malloc_trim_threshold & 0xB4CC
+__malloc_top_pad & 0xB4D0
+__malloc_sbrk_base & 0xB4D4
+__malloc_max_sbrked_mem & 0xB4D8
+__malloc_max_total_mem & 0xB4DC
+__malloc_current_mallinfo & 0xB37C
+M:
+\xgcc32\src\newlib\libc\reent\sbrkr.c
+errno & 0xB580
+M:
+\xgcc32\src\libgloss\rs6000\..\sbrk.c
+heap_ptr & 0xB4E0
+M:
+\xgcc32\src\libgloss\rs6000\rom-errno.c
+errno & 0xB580
